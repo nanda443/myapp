@@ -6,6 +6,6 @@ class Status {
 }
 
 var callList = [
-  Status(name: 'James', statusDate: '12:00 PM'),
-  Status(name: 'Ade Eko Ardiansyah', statusDate: 'Now, 04:00 PM')
+  Status(name: 'Yuli Utami', statusDate: 'Now, 05:21 AM'),
+  Status(name: 'Hilmi', statusDate: 'Now, 04:41 PM')
 ];
